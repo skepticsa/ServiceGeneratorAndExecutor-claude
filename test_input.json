@@ -1,0 +1,3 @@
+{
+    "input": "Create an S3 bucket called random-bucket-generated-by-claude-ai with versioning enabled and a CloudFront distribution in front of it"
+}
